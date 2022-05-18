@@ -1,41 +1,5 @@
 # 2-Stage-BCI
 This is the code used to record the data from the 2-Stage-BCI study. 
-Table of Contents
-Introduction
-Code
-Assets
-EEG BCI Scripts
-1 EOG Acquisition
-2 EOG Calibration
-3 Restingstate
-4 BCI Calibration
-5 BCI Train CSP
-6 BCI Train LDA
-7 BCI online
-8 BCI Replay
-Adapted
-Channel name List
-TMS Scripts
-Introduction
-0 test DAQ
-1 hotspotting
-2 recruitment curve
-3 Pre MEPs
-4 MEP UP/DN
-5 Post MEPs
-Get TMS onset
-Waiting room
-EEG Scripts
-Introduction
-3 EEG Pre MEPs
-4 EEG MEP DOWN/UP
-5 EEG Post MEPs
-Get_TMS_onset
-Waiting room
-Troubleshooting Document
-Information
-Introduction
- 
  
 ### Introduction
 This Document gives a very high level descriptions of the files to be found and file structure.
